@@ -10,14 +10,13 @@
       "viết thư, giao dịch thư từ",
       "viết văn, viết sách",
       "(từ Mỹ,nghĩa Mỹ) làm thư ký",
-      "viết",
       "viết, thảo ra, soạn",
       "điền vào; viết vào",
       "(nghĩa bóng) lộ ra"
     ],
     "cau_en": "innocence is written on his face",
     "cau_vn": "sự vô tội lộ rõ trên nét mặt anh ta",
-    "hash_code_list_mean": "529525638",
+    "hash_code_list_mean": "-533459302",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
@@ -35,7 +34,7 @@
         "id_image": "write_878563"
       }
     ],
-    "hash_code_list_img": "-1938134694"
+    "hash_code_list_img": "-1120975306"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/wrong_lv_img_2500_it.json",
@@ -82,7 +81,7 @@
         "id_image": "wrong_5705495"
       }
     ],
-    "hash_code_list_img": "239881444"
+    "hash_code_list_img": "722686722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/yard_lv_img_2500_it.json",
@@ -118,7 +117,7 @@
         "id_image": "yard_5776764"
       }
     ],
-    "hash_code_list_img": "531564716"
+    "hash_code_list_img": "-627173007"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/yarn_lv_img_2500_it.json",
@@ -146,7 +145,7 @@
         "id_image": "yarn_588425"
       }
     ],
-    "hash_code_list_img": "-113596905"
+    "hash_code_list_img": "1983991224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/yawn_lv_img_2500_it.json",
@@ -180,7 +179,7 @@
         "id_image": "yawn_5509051"
       }
     ],
-    "hash_code_list_img": "-241520158"
+    "hash_code_list_img": "-1870944290"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/young_lv_img_2500_it.json",
@@ -224,7 +223,7 @@
         "id_image": "young_3576969"
       }
     ],
-    "hash_code_list_img": "64577664"
+    "hash_code_list_img": "-444090981"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/youth_lv_img_2500_it.json",
@@ -257,7 +256,7 @@
         "id_image": "youth_4901028"
       }
     ],
-    "hash_code_list_img": "-93296079"
+    "hash_code_list_img": "-960229353"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/zigzag_lv_img_2500_it.json",
@@ -281,7 +280,7 @@
         "id_image": "zigzag_1655263"
       }
     ],
-    "hash_code_list_img": "1121401984"
+    "hash_code_list_img": "1952194595"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_2/raw/main/zone_lv_img_2500_it.json",
@@ -305,6 +304,6 @@
         "id_image": "zone_2191451"
       }
     ],
-    "hash_code_list_img": "1519173661"
+    "hash_code_list_img": "114990565"
   }
 ]

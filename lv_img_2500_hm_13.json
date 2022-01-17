@@ -8,7 +8,6 @@
     "list_mean": [
       "sống",
       "ở, trú tại",
-      "sống",
       "thực hiện được (trong cuộc sống)",
       "sống, hoạt động",
       "(đùa cợt) thực (không phải ở trong tranh hay là đồ chơi)",
@@ -22,7 +21,7 @@
     ],
     "cau_en": "as long as we live , we will fight oppression and exploitation",
     "cau_vn": "chừng nào còn sống, chúng ta còn đấu tranh chống áp bức và bóc lột",
-    "hash_code_list_mean": "102312849",
+    "hash_code_list_mean": "-428052392",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809454288_c67dd9a681_n.jpg",
@@ -40,7 +39,7 @@
         "id_image": "live_5853752"
       }
     ],
-    "hash_code_list_img": "-1722358564"
+    "hash_code_list_img": "1027783192"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/load_lv_img_2500_it.json",
@@ -87,7 +86,7 @@
         "id_image": "load_554512"
       }
     ],
-    "hash_code_list_img": "-930412189"
+    "hash_code_list_img": "1812171978"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loaf_lv_img_2500_it.json",
@@ -123,7 +122,7 @@
         "id_image": "loaf_3280310"
       }
     ],
-    "hash_code_list_img": "1846438118"
+    "hash_code_list_img": "1631576676"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loan_lv_img_2500_it.json",
@@ -155,7 +154,7 @@
         "id_image": "loan_649001"
       }
     ],
-    "hash_code_list_img": "1919020716"
+    "hash_code_list_img": "-457501808"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lobby_lv_img_2500_it.json",
@@ -186,7 +185,7 @@
         "id_image": "lobby_5569268"
       }
     ],
-    "hash_code_list_img": "1306990061"
+    "hash_code_list_img": "-800835257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/local_lv_img_2500_it.json",
@@ -213,7 +212,7 @@
         "id_image": "local_997681"
       }
     ],
-    "hash_code_list_img": "15892162"
+    "hash_code_list_img": "1170788542"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/locate_lv_img_2500_it.json",
@@ -246,7 +245,7 @@
         "id_image": "locate_5744745"
       }
     ],
-    "hash_code_list_img": "544628468"
+    "hash_code_list_img": "991598731"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/location_lv_img_2500_it.json",
@@ -284,7 +283,7 @@
         "id_image": "location_495480"
       }
     ],
-    "hash_code_list_img": "-803163926"
+    "hash_code_list_img": "787067254"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lock_lv_img_2500_it.json",
@@ -332,7 +331,7 @@
         "id_image": "lock_923793"
       }
     ],
-    "hash_code_list_img": "-1588768097"
+    "hash_code_list_img": "-335782525"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/locomotive_lv_img_2500_it.json",
@@ -365,7 +364,7 @@
         "id_image": "locomotive_895536"
       }
     ],
-    "hash_code_list_img": "1865019756"
+    "hash_code_list_img": "1351692447"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lodge_lv_img_2500_it.json",
@@ -416,7 +415,7 @@
         "id_image": "lodge_895523"
       }
     ],
-    "hash_code_list_img": "-314370932"
+    "hash_code_list_img": "-197227593"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/logic_lv_img_2500_it.json",
@@ -449,7 +448,7 @@
         "id_image": "logic_5387386"
       }
     ],
-    "hash_code_list_img": "-237404412"
+    "hash_code_list_img": "-278089723"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/log_lv_img_2500_it.json",
@@ -487,7 +486,7 @@
         "id_image": "log_721100"
       }
     ],
-    "hash_code_list_img": "-2093505870"
+    "hash_code_list_img": "1333415041"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lonely_lv_img_2500_it.json",
@@ -529,7 +528,7 @@
         "id_image": "lonely_5778078"
       }
     ],
-    "hash_code_list_img": "1110512783"
+    "hash_code_list_img": "-2093487602"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/long_lv_img_2500_it.json",
@@ -563,7 +562,7 @@
         "id_image": "long_5966419"
       }
     ],
-    "hash_code_list_img": "1964983969"
+    "hash_code_list_img": "-1346115138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/look_lv_img_2500_it.json",
@@ -593,7 +592,7 @@
         "id_image": "look_6401059"
       }
     ],
-    "hash_code_list_img": "1938025217"
+    "hash_code_list_img": "519303111"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loom_lv_img_2500_it.json",
@@ -623,7 +622,7 @@
         "id_image": "loom_5939193"
       }
     ],
-    "hash_code_list_img": "1759819607"
+    "hash_code_list_img": "625238334"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loop_lv_img_2500_it.json",
@@ -667,7 +666,7 @@
         "id_image": "loop_6365997"
       }
     ],
-    "hash_code_list_img": "340875877"
+    "hash_code_list_img": "733689496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loot_lv_img_2500_it.json",
@@ -707,7 +706,7 @@
         "id_image": "loot_2742168"
       }
     ],
-    "hash_code_list_img": "-469621826"
+    "hash_code_list_img": "1384444293"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lord_lv_img_2500_it.json",
@@ -736,7 +735,7 @@
         "id_image": "lord_1618858"
       }
     ],
-    "hash_code_list_img": "61426051"
+    "hash_code_list_img": "1215951121"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lose_lv_img_2500_it.json",
@@ -754,12 +753,11 @@
       "chậm (đồng hồ)",
       "( dạng bị động) mê man, say sưa, chìm đắm",
       "mất; mất ý nghĩa, mất hay",
-      "chậm (đồng hồ)",
       "thất bại, thua, thua lỗ"
     ],
     "cau_en": "Ho-Xuan-Huong's poems lose much in the translation",
     "cau_vn": "thơ Hồ Xuân Hương dịch ra bị mất hay đi nhiều",
-    "hash_code_list_mean": "1655696198",
+    "hash_code_list_mean": "1339653056",
     "list_img": [
       {
         "link_thumb": "https://live.staticflickr.com/65535/51809335351_a01bcec6ea_n.jpg",
@@ -772,7 +770,7 @@
         "id_image": "lose_6329133"
       }
     ],
-    "hash_code_list_img": "637312254"
+    "hash_code_list_img": "-387948116"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/loss_lv_img_2500_it.json",
@@ -811,7 +809,7 @@
         "id_image": "loss_6299670"
       }
     ],
-    "hash_code_list_img": "970564483"
+    "hash_code_list_img": "-2092344909"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lotion_lv_img_2500_it.json",
@@ -847,7 +845,7 @@
         "id_image": "lotion_6075185"
       }
     ],
-    "hash_code_list_img": "1341830991"
+    "hash_code_list_img": "-1952531734"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lottery_lv_img_2500_it.json",
@@ -884,7 +882,7 @@
         "id_image": "lottery_4658208"
       }
     ],
-    "hash_code_list_img": "1400615604"
+    "hash_code_list_img": "1827726218"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lover_lv_img_2500_it.json",
@@ -907,7 +905,7 @@
         "id_image": "lover_6385411"
       }
     ],
-    "hash_code_list_img": "181078384"
+    "hash_code_list_img": "803893415"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/love_lv_img_2500_it.json",
@@ -937,7 +935,7 @@
         "id_image": "love_708692"
       }
     ],
-    "hash_code_list_img": "1542598455"
+    "hash_code_list_img": "1078566510"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lower_lv_img_2500_it.json",
@@ -964,7 +962,7 @@
         "id_image": "lower_1617773"
       }
     ],
-    "hash_code_list_img": "645875565"
+    "hash_code_list_img": "1372422171"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/low_lv_img_2500_it.json",
@@ -1011,7 +1009,7 @@
         "id_image": "low_6418233"
       }
     ],
-    "hash_code_list_img": "-288549632"
+    "hash_code_list_img": "-612585960"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lucky_lv_img_2500_it.json",
@@ -1043,7 +1041,7 @@
         "id_image": "lucky_4617318"
       }
     ],
-    "hash_code_list_img": "1905532242"
+    "hash_code_list_img": "1271560328"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/luck_lv_img_2500_it.json",
@@ -1075,7 +1073,7 @@
         "id_image": "luck_3159017"
       }
     ],
-    "hash_code_list_img": "984834682"
+    "hash_code_list_img": "-1320754620"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lug_lv_img_2500_it.json",
@@ -1106,7 +1104,7 @@
         "id_image": "lug_1772564"
       }
     ],
-    "hash_code_list_img": "1170111732"
+    "hash_code_list_img": "1978505007"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lumber_lv_img_2500_it.json",
@@ -1143,7 +1141,7 @@
         "id_image": "lumber_4251853"
       }
     ],
-    "hash_code_list_img": "-1828771331"
+    "hash_code_list_img": "-31683554"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lunar_lv_img_2500_it.json",
@@ -1187,7 +1185,7 @@
         "id_image": "lunar_4657808"
       }
     ],
-    "hash_code_list_img": "-1936944661"
+    "hash_code_list_img": "1718327409"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lunch_lv_img_2500_it.json",
@@ -1226,7 +1224,7 @@
         "id_image": "lunch_5483765"
       }
     ],
-    "hash_code_list_img": "1926246680"
+    "hash_code_list_img": "-973614857"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lust_lv_img_2500_it.json",
@@ -1249,7 +1247,7 @@
         "id_image": "lust_1316898"
       }
     ],
-    "hash_code_list_img": "703555701"
+    "hash_code_list_img": "1543146724"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/luxurious_lv_img_2500_it.json",
@@ -1281,7 +1279,7 @@
         "id_image": "luxurious_6193395"
       }
     ],
-    "hash_code_list_img": "-166863453"
+    "hash_code_list_img": "-1484001721"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/luxury_lv_img_2500_it.json",
@@ -1318,7 +1316,7 @@
         "id_image": "luxury_4954442"
       }
     ],
-    "hash_code_list_img": "-257241821"
+    "hash_code_list_img": "1242754201"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/lyric_lv_img_2500_it.json",
@@ -1347,7 +1345,7 @@
         "id_image": "lyric_5093639"
       }
     ],
-    "hash_code_list_img": "1145531022"
+    "hash_code_list_img": "-1813326108"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/machinery_lv_img_2500_it.json",
@@ -1385,7 +1383,7 @@
         "id_image": "machinery_566145"
       }
     ],
-    "hash_code_list_img": "1657029014"
+    "hash_code_list_img": "-987650738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/machine_lv_img_2500_it.json",
@@ -1427,7 +1425,7 @@
         "id_image": "machine_830018"
       }
     ],
-    "hash_code_list_img": "1288314369"
+    "hash_code_list_img": "-1698376897"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mad_lv_img_2500_it.json",
@@ -1475,7 +1473,7 @@
         "id_image": "mad_6300341"
       }
     ],
-    "hash_code_list_img": "-1866570054"
+    "hash_code_list_img": "-905724957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/maggot_lv_img_2500_it.json",
@@ -1497,7 +1495,7 @@
         "id_image": "maggot_4982438"
       }
     ],
-    "hash_code_list_img": "1846982868"
+    "hash_code_list_img": "677120231"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/magnetic_lv_img_2500_it.json",
@@ -1535,7 +1533,7 @@
         "id_image": "magnetic_992276"
       }
     ],
-    "hash_code_list_img": "688764576"
+    "hash_code_list_img": "1590135741"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/magnetism_lv_img_2500_it.json",
@@ -1567,7 +1565,7 @@
         "id_image": "magnetism_5008251"
       }
     ],
-    "hash_code_list_img": "1260021494"
+    "hash_code_list_img": "397515190"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/magnify_lv_img_2500_it.json",
@@ -1594,7 +1592,7 @@
         "id_image": "magnify_5236225"
       }
     ],
-    "hash_code_list_img": "-1659922582"
+    "hash_code_list_img": "350291224"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mail_lv_img_2500_it.json",
@@ -1631,7 +1629,7 @@
         "id_image": "mail_696380"
       }
     ],
-    "hash_code_list_img": "115763056"
+    "hash_code_list_img": "1229550943"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/maintenance_lv_img_2500_it.json",
@@ -1675,7 +1673,7 @@
         "id_image": "maintenance_1792321"
       }
     ],
-    "hash_code_list_img": "-51940038"
+    "hash_code_list_img": "586304292"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/majority_lv_img_2500_it.json",
@@ -1709,7 +1707,7 @@
         "id_image": "majority_5291865"
       }
     ],
-    "hash_code_list_img": "614160444"
+    "hash_code_list_img": "-1853238680"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/make_lv_img_2500_it.json",
@@ -1751,7 +1749,7 @@
         "id_image": "make_339986"
       }
     ],
-    "hash_code_list_img": "1336775878"
+    "hash_code_list_img": "34073138"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/male_lv_img_2500_it.json",
@@ -1779,7 +1777,7 @@
         "id_image": "male_6314150"
       }
     ],
-    "hash_code_list_img": "114644402"
+    "hash_code_list_img": "-1765871522"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manage_lv_img_2500_it.json",
@@ -1823,7 +1821,7 @@
         "id_image": "manage_5132697"
       }
     ],
-    "hash_code_list_img": "-969600997"
+    "hash_code_list_img": "404300002"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manicure_lv_img_2500_it.json",
@@ -1855,7 +1853,7 @@
         "id_image": "manicure_2377422"
       }
     ],
-    "hash_code_list_img": "-1925926537"
+    "hash_code_list_img": "-1269951339"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manifesto_lv_img_2500_it.json",
@@ -1881,7 +1879,7 @@
         "id_image": "manifesto_6009841"
       }
     ],
-    "hash_code_list_img": "1755593384"
+    "hash_code_list_img": "-1318918675"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manual_lv_img_2500_it.json",
@@ -1920,7 +1918,7 @@
         "id_image": "manual_977646"
       }
     ],
-    "hash_code_list_img": "1616469431"
+    "hash_code_list_img": "706056198"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manufacturer_lv_img_2500_it.json",
@@ -1951,7 +1949,7 @@
         "id_image": "manufacturer_2761089"
       }
     ],
-    "hash_code_list_img": "983522167"
+    "hash_code_list_img": "-500882269"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manufacture_lv_img_2500_it.json",
@@ -1990,7 +1988,7 @@
         "id_image": "manufacture_6041273"
       }
     ],
-    "hash_code_list_img": "-948049575"
+    "hash_code_list_img": "1815683144"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/manuscript_lv_img_2500_it.json",
@@ -2022,7 +2020,7 @@
         "id_image": "manuscript_5146366"
       }
     ],
-    "hash_code_list_img": "-728173321"
+    "hash_code_list_img": "445025189"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/man_lv_img_2500_it.json",
@@ -2057,7 +2055,7 @@
         "id_image": "man_366309"
       }
     ],
-    "hash_code_list_img": "1328847302"
+    "hash_code_list_img": "2034328990"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/map_lv_img_2500_it.json",
@@ -2092,7 +2090,7 @@
         "id_image": "map_683836"
       }
     ],
-    "hash_code_list_img": "-1933563869"
+    "hash_code_list_img": "1620118649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/marathon_lv_img_2500_it.json",
@@ -2124,7 +2122,7 @@
         "id_image": "marathon_5200936"
       }
     ],
-    "hash_code_list_img": "-1403273841"
+    "hash_code_list_img": "-1745818786"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/margin_lv_img_2500_it.json",
@@ -2159,7 +2157,7 @@
         "id_image": "margin_893415"
       }
     ],
-    "hash_code_list_img": "-1892571292"
+    "hash_code_list_img": "-1592149695"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/marine_lv_img_2500_it.json",
@@ -2200,7 +2198,7 @@
         "id_image": "marine_5969101"
       }
     ],
-    "hash_code_list_img": "1574347053"
+    "hash_code_list_img": "-473554650"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/market_lv_img_2500_it.json",
@@ -2235,7 +2233,7 @@
         "id_image": "market_831495"
       }
     ],
-    "hash_code_list_img": "1970277374"
+    "hash_code_list_img": "435152725"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mark_lv_img_2500_it.json",
@@ -2275,7 +2273,7 @@
         "id_image": "mark_4469819"
       }
     ],
-    "hash_code_list_img": "-454046040"
+    "hash_code_list_img": "1616229933"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/marriage_lv_img_2500_it.json",
@@ -2308,7 +2306,7 @@
         "id_image": "marriage_538248"
       }
     ],
-    "hash_code_list_img": "1310351078"
+    "hash_code_list_img": "1235751516"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/martial_lv_img_2500_it.json",
@@ -2330,7 +2328,7 @@
         "id_image": "martial_2822365"
       }
     ],
-    "hash_code_list_img": "407148528"
+    "hash_code_list_img": "662925722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mask_lv_img_2500_it.json",
@@ -2366,7 +2364,7 @@
         "id_image": "mask_588826"
       }
     ],
-    "hash_code_list_img": "1001466013"
+    "hash_code_list_img": "-742683475"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/masquerade_lv_img_2500_it.json",
@@ -2401,7 +2399,7 @@
         "id_image": "masquerade_863129"
       }
     ],
-    "hash_code_list_img": "1314471592"
+    "hash_code_list_img": "1932579038"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/massage_lv_img_2500_it.json",
@@ -2438,7 +2436,7 @@
         "id_image": "massage_5775840"
       }
     ],
-    "hash_code_list_img": "-2120789586"
+    "hash_code_list_img": "-2076195179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mass_lv_img_2500_it.json",
@@ -2466,7 +2464,7 @@
         "id_image": "mass_1534157"
       }
     ],
-    "hash_code_list_img": "747870659"
+    "hash_code_list_img": "1149407114"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/master_lv_img_2500_it.json",
@@ -2509,7 +2507,7 @@
         "id_image": "master_2621768"
       }
     ],
-    "hash_code_list_img": "181887324"
+    "hash_code_list_img": "-549085751"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/match_lv_img_2500_it.json",
@@ -2559,7 +2557,7 @@
         "id_image": "match_5226382"
       }
     ],
-    "hash_code_list_img": "479207815"
+    "hash_code_list_img": "1907368804"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/material_lv_img_2500_it.json",
@@ -2600,7 +2598,7 @@
         "id_image": "material_416213"
       }
     ],
-    "hash_code_list_img": "2003744392"
+    "hash_code_list_img": "846494891"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mathematical_lv_img_2500_it.json",
@@ -2622,7 +2620,7 @@
         "id_image": "mathematical_329786"
       }
     ],
-    "hash_code_list_img": "1373577818"
+    "hash_code_list_img": "1824322146"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mathematics_lv_img_2500_it.json",
@@ -2658,7 +2656,7 @@
         "id_image": "mathematics_6032181"
       }
     ],
-    "hash_code_list_img": "324060027"
+    "hash_code_list_img": "-2033045694"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/maybe_lv_img_2500_it.json",
@@ -2684,7 +2682,7 @@
         "id_image": "maybe_5650824"
       }
     ],
-    "hash_code_list_img": "-615527731"
+    "hash_code_list_img": "203513732"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/maze_lv_img_2500_it.json",
@@ -2716,7 +2714,7 @@
         "id_image": "maze_951781"
       }
     ],
-    "hash_code_list_img": "-716480272"
+    "hash_code_list_img": "-1667934565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/meal_lv_img_2500_it.json",
@@ -2754,7 +2752,7 @@
         "id_image": "meal_649067"
       }
     ],
-    "hash_code_list_img": "247466057"
+    "hash_code_list_img": "442455209"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/measurement_lv_img_2500_it.json",
@@ -2791,7 +2789,7 @@
         "id_image": "measurement_927856"
       }
     ],
-    "hash_code_list_img": "-1109456307"
+    "hash_code_list_img": "1302067486"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/measure_lv_img_2500_it.json",
@@ -2845,7 +2843,7 @@
         "id_image": "measure_5181894"
       }
     ],
-    "hash_code_list_img": "1253578445"
+    "hash_code_list_img": "-1243990054"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/meat_lv_img_2500_it.json",
@@ -2878,7 +2876,7 @@
         "id_image": "meat_2403379"
       }
     ],
-    "hash_code_list_img": "2005591638"
+    "hash_code_list_img": "-1586956899"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mechanical_lv_img_2500_it.json",
@@ -2900,7 +2898,7 @@
         "id_image": "mechanical_2286219"
       }
     ],
-    "hash_code_list_img": "859123537"
+    "hash_code_list_img": "1800967399"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mechanism_lv_img_2500_it.json",
@@ -2938,7 +2936,7 @@
         "id_image": "mechanism_5541887"
       }
     ],
-    "hash_code_list_img": "-1351143653"
+    "hash_code_list_img": "22813982"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/medal_lv_img_2500_it.json",
@@ -2969,7 +2967,7 @@
         "id_image": "medal_702307"
       }
     ],
-    "hash_code_list_img": "66931728"
+    "hash_code_list_img": "748707785"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/medical_lv_img_2500_it.json",
@@ -3008,7 +3006,7 @@
         "id_image": "medical_4246617"
       }
     ],
-    "hash_code_list_img": "406484520"
+    "hash_code_list_img": "1448445813"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/medication_lv_img_2500_it.json",
@@ -3050,7 +3048,7 @@
         "id_image": "medication_552437"
       }
     ],
-    "hash_code_list_img": "-966445810"
+    "hash_code_list_img": "-1633467375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/medicine_lv_img_2500_it.json",
@@ -3087,7 +3085,7 @@
         "id_image": "medicine_807123"
       }
     ],
-    "hash_code_list_img": "-1240555677"
+    "hash_code_list_img": "480695980"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/medium_lv_img_2500_it.json",
@@ -3118,7 +3116,7 @@
         "id_image": "medium_3103560"
       }
     ],
-    "hash_code_list_img": "-1488395144"
+    "hash_code_list_img": "1976349825"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/meet_lv_img_2500_it.json",
@@ -3151,7 +3149,7 @@
         "id_image": "meet_4458775"
       }
     ],
-    "hash_code_list_img": "138536340"
+    "hash_code_list_img": "2117099767"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/melon_lv_img_2500_it.json",
@@ -3178,7 +3176,7 @@
         "id_image": "melon_4480823"
       }
     ],
-    "hash_code_list_img": "-346004443"
+    "hash_code_list_img": "620091832"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/melt_lv_img_2500_it.json",
@@ -3212,7 +3210,7 @@
         "id_image": "melt_3690282"
       }
     ],
-    "hash_code_list_img": "-2052023773"
+    "hash_code_list_img": "-145748371"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/membership_lv_img_2500_it.json",
@@ -3254,7 +3252,7 @@
         "id_image": "membership_5983730"
       }
     ],
-    "hash_code_list_img": "1616444710"
+    "hash_code_list_img": "-1791926405"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/member_lv_img_2500_it.json",
@@ -3299,7 +3297,7 @@
         "id_image": "member_5541869"
       }
     ],
-    "hash_code_list_img": "-310120872"
+    "hash_code_list_img": "2088512312"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/membrane_lv_img_2500_it.json",
@@ -3330,7 +3328,7 @@
         "id_image": "membrane_5376556"
       }
     ],
-    "hash_code_list_img": "239231799"
+    "hash_code_list_img": "683140656"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/memorial_lv_img_2500_it.json",
@@ -3362,7 +3360,7 @@
         "id_image": "memorial_3556870"
       }
     ],
-    "hash_code_list_img": "1171971342"
+    "hash_code_list_img": "-1796133623"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/memory_lv_img_2500_it.json",
@@ -3407,7 +3405,7 @@
         "id_image": "memory_969351"
       }
     ],
-    "hash_code_list_img": "-207141702"
+    "hash_code_list_img": "1196003649"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mentality_lv_img_2500_it.json",
@@ -3429,7 +3427,7 @@
         "id_image": "mentality_3588609"
       }
     ],
-    "hash_code_list_img": "1605989016"
+    "hash_code_list_img": "1768127279"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mental_lv_img_2500_it.json",
@@ -3458,7 +3456,7 @@
         "id_image": "mental_2773087"
       }
     ],
-    "hash_code_list_img": "-1858242127"
+    "hash_code_list_img": "-227391779"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/mention_lv_img_2500_it.json",
@@ -3490,7 +3488,7 @@
         "id_image": "mention_5660389"
       }
     ],
-    "hash_code_list_img": "-1103991542"
+    "hash_code_list_img": "360924013"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/lv_img_2500_it_1/raw/main/merchandise_lv_img_2500_it.json",
@@ -3522,6 +3520,6 @@
         "id_image": "merchandise_5671736"
       }
     ],
-    "hash_code_list_img": "-2073703849"
+    "hash_code_list_img": "-1859923870"
   }
 ]
